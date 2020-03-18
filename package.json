@@ -1,0 +1,15 @@
+{
+  "name": "akinator-bot",
+  "version": "1.0.0",
+  "description": "Akinator game via Telegram Bot",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "aki-api": "^3.2.1",
+    "node-telegram-bot-api": "^0.40.0"
+  }
+}

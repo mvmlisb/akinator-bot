@@ -1,0 +1,9 @@
+module.exports.ANSWER_YES = 0;
+module.exports.ANSWER_NO = 1;
+module.exports.ANSWER_DO_NOT_KNOW = 2;
+module.exports.ANSWER_PROBABLY = 3;
+module.exports.ANSWER_PROBABLY_NOT = 4;
+module.exports.RIGHT_GUESS = 5;
+module.exports.WRONG_GUESS = 6;
+module.exports.CONTINUE_GAME = 7;
+module.exports.COMPLETE_GAME = 8;
